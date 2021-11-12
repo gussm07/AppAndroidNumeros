@@ -1,3 +1,9 @@
-<resources>
-    <string name="app_name">AppAndroidNumeros</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GENERAR NUMEROS</string>
+    <string name="Mas">+</string>
+    <string name="uno_copia">1</string>
+    <string name="numero1">1</string>
+    <string name="resultado">=</string>
+    <string name="resultadobuton">RESULTADO</string>
+
 </resources>
