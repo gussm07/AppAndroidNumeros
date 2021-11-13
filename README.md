@@ -1,3 +1,6 @@
 # AppAndroidNumeros
 
-![Alt Text](ESTADO.png)
+![Alt Text](Correcto.png)
+
+
+![Alt Text](Incorrecto.png)
